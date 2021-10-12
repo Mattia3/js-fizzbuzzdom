@@ -2,3 +2,19 @@
   flex: 0 0 auto;
   width: calc(100% / 7);
 }
+
+.text-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.my-background{
+  background-color: #083B4C;
+}
+
+.title{
+  font-size: 100px;
+  font-weight: bold;
+}
